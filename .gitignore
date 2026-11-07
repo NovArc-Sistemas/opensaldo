@@ -1,0 +1,5 @@
+# dados financeiros nunca entram no repositório
+*.dash-key
+*.dash-password
+finance-data/
+.env

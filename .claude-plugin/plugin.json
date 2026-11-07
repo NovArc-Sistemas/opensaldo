@@ -1,0 +1,19 @@
+{
+  "name": "opensaldo",
+  "description": "Painel de finanças pessoais e patrimônio dentro do Claude: contas, cartões, previstos, bens, investimentos e empresas numa página cifrada, com Open Finance e um agente que mantém tudo em dia.",
+  "author": {
+    "name": "NOVARC Sistemas",
+    "email": "projetos@novarcsistemas.com",
+    "url": "https://www.novarcsistemas.com"
+  },
+  "homepage": "https://github.com/NovArc-Sistemas/opensaldo",
+  "repository": "https://github.com/NovArc-Sistemas/opensaldo",
+  "license": "MIT",
+  "keywords": [
+    "finanças",
+    "open finance",
+    "patrimônio",
+    "orçamento",
+    "pt-BR"
+  ]
+}
